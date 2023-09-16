@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863933887367",
+    "project_id": "scrinpix-2a0d1",
+    "storage_bucket": "scrinpix-2a0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863933887367:android:7b3d71cd53af4a63c61922",
+        "android_client_info": {
+          "package_name": "com.shakhriyorf.screenpix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863933887367-89560eh0s9s4ibavd5aqqadovqbsi9l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Os4hZAMq2OYFM3TM-aRccQp9gs-2KT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863933887367-89560eh0s9s4ibavd5aqqadovqbsi9l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
